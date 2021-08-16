@@ -12,11 +12,11 @@
 ```javascript
 const sarthak-rohatgi = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Dart, HTML, CSS, C++, Python, SQL],
+  tools: [Flutter, Node, Styled-Components, Docker, Django, Relational Databases],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        -: ""
+                        -: "Member of GDSC"
                       },
  challenge: "I am building a healthcare app which thrives to help people all around the world."
 }
