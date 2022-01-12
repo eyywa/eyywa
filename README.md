@@ -4,7 +4,7 @@
 
 [![Twitter: sarthak_rohatgi](https://img.shields.io/twitter/follow/sarthak_rohatgi?style=social)](https://twitter.com/sarthak_rohatgi)
 [![Linkedin: sarthak-rohatgi](https://img.shields.io/badge/-sarthak--rohatgi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-rohatgi/)](https://www.linkedin.com/in/sarthak-rohatgi/)
-[![GitHub Sarthak Rohatgi](https://img.shields.io/github/followers/ll-Eywa-ll?style=social)](https://github.com/eyywa)
+[![GitHub Sarthak Rohatgi](https://img.shields.io/github/followers/eyywa?style=social)](https://github.com/eyywa)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
